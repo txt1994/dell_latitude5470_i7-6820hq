@@ -1,0 +1,176 @@
+8:871  1:193  Found BIOS RSDP at ECF70
+8:871  0:000  Printing ACPI tables from RSDP ECF70 ...
+8:871  0:000   ECF70: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+8:871  0:000    (Xsdt: A77FF0A8, Rsdt: A77FF028)
+8:871  0:000    A77FF0A8: 'XSDT', 'CBX3', Rev: 1, Len: 204
+8:871  0:000    A77FF028: 'RSDT', 'CBX3', Rev: 1, Len: 120
+8:871  0:000    Tables in Xsdt: 21
+8:871  0:000    0. A7820350: 'FACP', 'CBX3', Rev: 5, Len: 268
+8:871  0:000        (Dsdt: A77FF200, Facs: A7E69E80, XDsdt: A77FF200, XFacs: 0)
+8:871  0:000        A77FF200: 'DSDT', 'CBX3', Rev: 2, Len: 135504
+8:873  0:002        A7E69E80: 'FACS', Ver: 2, Len: 64
+8:873  0:000    1. A7820460: 'APIC', 'CBX3', Rev: 3, Len: 188
+8:873  0:000    2. A7820520: 'FPDT', 'CBX3', Rev: 1, Len: 68
+8:873  0:000    3. A7820568: 'MCFG', 'CBX3', Rev: 1, Len: 60
+8:873  0:000    4. A78205A8: 'HPET', 'CBX3', Rev: 1, Len: 56
+8:873  0:000    5. A78205E0: 'SSDT', 'SataTabl', Rev: 1, Len: 1133
+8:873  0:000    6. A7820A50: 'LPIT', 'SKL', Rev: 1, Len: 148
+8:873  0:000    7. A7820AE8: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+8:873  0:000    8. A7820D30: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+8:873  0:000    9. A78238E0: 'SSDT', 'xh_rvp07', Rev: 2, Len: 2379
+8:873  0:000    10. A7824230: 'DBGP', '', Rev: 1, Len: 52
+8:873  0:000    11. A7824268: 'DBG2', '', Rev: 0, Len: 84
+8:873  0:000    12. A78242C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 13786
+8:873  0:000    13. A78278A0: 'UEFI', '', Rev: 1, Len: 66
+8:873  0:000    14. A78278E8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+8:873  0:000    15. A7828760: 'SSDT', 'DptfTabl', Rev: 2, Len: 15357
+8:873  0:000    16. A782C360: 'MSDM', 'CBX3', Rev: 3, Len: 85
+8:873  0:000    17. A782C3B8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+8:873  0:000    18. A782C530: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+8:873  0:000    19. A782C568: 'ASF!', ' HCG', Rev: 32, Len: 165
+8:873  0:000    20. A782C610: 'BGRT', '', Rev: 0, Len: 56
+8:873  0:000    Tables in Rsdt: 21
+8:873  0:000    0. A77FF178: 'FACP', 'CBX3', Rev: 2, Len: 132
+8:873  0:000        (Dsdt: A77FF200, Facs: A7E69E40)
+8:873  0:000        A77FF200: 'DSDT', 'CBX3', Rev: 2, Len: 135504
+8:875  0:002        A7E69E40: 'FACS', Ver: 0, Len: 64
+8:875  0:000    1. A7820460: 'APIC', 'CBX3', Rev: 3, Len: 188
+8:875  0:000    2. A7820520: 'FPDT', 'CBX3', Rev: 1, Len: 68
+8:875  0:000    3. A7820568: 'MCFG', 'CBX3', Rev: 1, Len: 60
+8:875  0:000    4. A78205A8: 'HPET', 'CBX3', Rev: 1, Len: 56
+8:875  0:000    5. A78205E0: 'SSDT', 'SataTabl', Rev: 1, Len: 1133
+8:875  0:000    6. A7820A50: 'LPIT', 'SKL', Rev: 1, Len: 148
+8:875  0:000    7. A7820AE8: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+8:875  0:000    8. A7820D30: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+8:875  0:000    9. A78238E0: 'SSDT', 'xh_rvp07', Rev: 2, Len: 2379
+8:875  0:000    10. A7824230: 'DBGP', '', Rev: 1, Len: 52
+8:875  0:000    11. A7824268: 'DBG2', '', Rev: 0, Len: 84
+8:875  0:000    12. A78242C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 13786
+8:875  0:000    13. A78278A0: 'UEFI', '', Rev: 1, Len: 66
+8:875  0:000    14. A78278E8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+8:875  0:000    15. A7828760: 'SSDT', 'DptfTabl', Rev: 2, Len: 15357
+8:875  0:000    16. A782C360: 'MSDM', 'CBX3', Rev: 3, Len: 85
+8:875  0:000    17. A782C3B8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+8:875  0:000    18. A782C530: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+8:875  0:000    19. A782C568: 'ASF!', ' HCG', Rev: 32, Len: 165
+8:875  0:000    20. A782C610: 'BGRT', '', Rev: 0, Len: 56
+8:875  0:000  Found UEFI Acpi 2.0 RSDP at A77FF000
+8:875  0:000  Saving ACPI tables from RSDP A77FF000 to EFI\CLOVER\ACPI\origin ...
+8:875  0:000   A77FF000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+8:897  0:021    (Xsdt: A77FF0A8, Rsdt: A77FF028)
+8:897  0:000    A77FF0A8: 'XSDT', 'CBX3', Rev: 1, Len: 204 -> XSDT.aml
+8:921  0:023    A77FF028: 'RSDT', 'CBX3', Rev: 1, Len: 120 -> RSDT.aml
+8:938  0:016    Tables in Xsdt: 21
+8:938  0:000    0. A7820350: 'FACP', 'CBX3', Rev: 5, Len: 268 -> FACP.aml
+8:955  0:017        (Dsdt: A77FF200, Facs: A7E69E80, XDsdt: A77FF200, XFacs: 0)
+8:955  0:000        A77FF200: 'DSDT', 'CBX3', Rev: 2, Len: 135504 -> DSDT.aml
+8:976  0:021        A7E69E80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+8:994  0:017    1. A7820460: 'APIC', 'CBX3', Rev: 3, Len: 188 -> APIC.aml
+9:013  0:018    2. A7820520: 'FPDT', 'CBX3', Rev: 1, Len: 68 -> FPDT.aml
+9:030  0:017    3. A7820568: 'MCFG', 'CBX3', Rev: 1, Len: 60 -> MCFG.aml
+9:048  0:017    4. A78205A8: 'HPET', 'CBX3', Rev: 1, Len: 56 -> HPET.aml
+9:066  0:018    5. A78205E0: 'SSDT', 'SataTabl', Rev: 1, Len: 1133 -> SSDT-0-SataTabl.aml
+9:084  0:017    6. A7820A50: 'LPIT', 'SKL', Rev: 1, Len: 148 -> LPIT.aml
+9:102  0:017    7. A7820AE8: 'SSDT', 'sensrhub', Rev: 2, Len: 584 -> SSDT-1-sensrhub.aml
+9:119  0:017    8. A7820D30: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182 -> SSDT-2-PtidDevc.aml
+9:140  0:020    9. A78238E0: 'SSDT', 'xh_rvp07', Rev: 2, Len: 2379 -> SSDT-3-xh_rvp07.aml
+9:167  0:026    10. A7824230: 'DBGP', '', Rev: 1, Len: 52 -> DBGP.aml
+9:184  0:017    11. A7824268: 'DBG2', '', Rev: 0, Len: 84 -> DBG2.aml
+9:201  0:016    12. A78242C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 13786 -> SSDT-4-SaSsdt.aml
+9:219  0:018    13. A78278A0: 'UEFI', '', Rev: 1, Len: 66 -> UEFI.aml
+9:237  0:017    14. A78278E8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699 -> SSDT-5-CpuSsdt.aml (Found hidden SSDT 7 pcs)
+9:254  0:017        * A75A0098: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1533  53 53 44 54 FD 05 00 00 02 CE 50 6D 52 65 66 00 Internal length = 1533 -> SSDT-x5_0-Cpu0Ist.aml
+9:276  0:022        * A753E018: 'SSDT', 'ApIst', Rev: 2, Len: 1450  53 53 44 54 AA 05 00 00 02 CE 50 6D 52 65 66 00 Internal length = 1450 -> SSDT-x5_1-ApIst.aml
+9:293  0:016        * A75A0718: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 895  53 53 44 54 7F 03 00 00 02 65 50 6D 52 65 66 00 Internal length = 895 -> SSDT-x5_2-Cpu0Cst.aml
+9:311  0:017        * A753ED18: 'SSDT', 'ApCst', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 EA 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x5_3-ApCst.aml
+9:329  0:017        * A54D3E98: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 142  53 53 44 54 8E 00 00 00 02 2B 50 6D 52 65 66 00 Internal length = 142 -> SSDT-x5_4-Cpu0Hwp.aml
+9:346  0:017        * A54D4118: 'SSDT', 'ApHwp', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 FD 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x5_5-ApHwp.aml
+9:366  0:020        * A54D4998: 'SSDT', 'HwpLvt', Rev: 2, Len: 304  53 53 44 54 30 01 00 00 02 85 50 6D 52 65 66 00 Internal length = 304 -> SSDT-x5_6-HwpLvt.aml
+9:384  0:017  
+9:384  0:000    15. A7828760: 'SSDT', 'DptfTabl', Rev: 2, Len: 15357
+9:384  0:000    16. A782C360: 'MSDM', 'CBX3', Rev: 3, Len: 85
+9:384  0:000    17. A782C3B8: 'SLIC', 'CBX3', Rev: 3, Len: 374 -> SLIC.aml
+9:402  0:017    18. A782C530: 'TCPA', 'NAPAASF', Rev: 2, Len: 50 -> TCPA.aml
+9:419  0:017    19. A782C568: 'ASF!', ' HCG', Rev: 32, Len: 165 -> ASF!.aml
+9:436  0:016    20. A782C610: 'BGRT', '', Rev: 0, Len: 56 -> BGRT.aml
+9:453  0:017    Tables in Rsdt: 21
+9:453  0:000    0. A77FF178: 'FACP', 'CBX3', Rev: 2, Len: 132 -> RSDT-FACP.aml
+9:471  0:017        (Dsdt: A77FF200, Facs: A7E69E40)
+9:471  0:000        A77FF200: 'DSDT', 'CBX3', Rev: 2, Len: 135504
+9:473  0:002        A7E69E40: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+9:491  0:018    1. A7820460: 'APIC', 'CBX3', Rev: 3, Len: 188
+9:491  0:000    2. A7820520: 'FPDT', 'CBX3', Rev: 1, Len: 68
+9:491  0:000    3. A7820568: 'MCFG', 'CBX3', Rev: 1, Len: 60
+9:491  0:000    4. A78205A8: 'HPET', 'CBX3', Rev: 1, Len: 56
+9:491  0:000    5. A78205E0: 'SSDT', 'SataTabl', Rev: 1, Len: 1133
+9:491  0:000    6. A7820A50: 'LPIT', 'SKL', Rev: 1, Len: 148
+9:491  0:000    7. A7820AE8: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+9:491  0:000    8. A7820D30: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+9:491  0:000    9. A78238E0: 'SSDT', 'xh_rvp07', Rev: 2, Len: 2379
+9:491  0:000    10. A7824230: 'DBGP', '', Rev: 1, Len: 52
+9:491  0:000    11. A7824268: 'DBG2', '', Rev: 0, Len: 84
+9:491  0:000    12. A78242C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 13786
+9:491  0:000    13. A78278A0: 'UEFI', '', Rev: 1, Len: 66
+9:491  0:000    14. A78278E8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+9:491  0:000    15. A7828760: 'SSDT', 'DptfTabl', Rev: 2, Len: 15357
+9:491  0:000    16. A782C360: 'MSDM', 'CBX3', Rev: 3, Len: 85
+9:491  0:000    17. A782C3B8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+9:491  0:000    18. A782C530: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+9:491  0:000    19. A782C568: 'ASF!', ' HCG', Rev: 32, Len: 165
+9:491  0:000    20. A782C610: 'BGRT', '', Rev: 0, Len: 56
+9:491  0:000  Found UEFI Acpi 1.0 RSDP at A77FF000
+9:491  0:000  Printing ACPI tables from RSDP A77FF000 ...
+9:491  0:000   A77FF000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+9:491  0:000    (Xsdt: A77FF0A8, Rsdt: A77FF028)
+9:491  0:000    A77FF0A8: 'XSDT', 'CBX3', Rev: 1, Len: 204
+9:491  0:000    A77FF028: 'RSDT', 'CBX3', Rev: 1, Len: 120
+9:491  0:000    Tables in Xsdt: 21
+9:491  0:000    0. A7820350: 'FACP', 'CBX3', Rev: 5, Len: 268
+9:491  0:000        (Dsdt: A77FF200, Facs: A7E69E80, XDsdt: A77FF200, XFacs: 0)
+9:491  0:000        A77FF200: 'DSDT', 'CBX3', Rev: 2, Len: 135504
+9:493  0:002        A7E69E80: 'FACS', Ver: 2, Len: 64
+9:493  0:000    1. A7820460: 'APIC', 'CBX3', Rev: 3, Len: 188
+9:493  0:000    2. A7820520: 'FPDT', 'CBX3', Rev: 1, Len: 68
+9:493  0:000    3. A7820568: 'MCFG', 'CBX3', Rev: 1, Len: 60
+9:493  0:000    4. A78205A8: 'HPET', 'CBX3', Rev: 1, Len: 56
+9:493  0:000    5. A78205E0: 'SSDT', 'SataTabl', Rev: 1, Len: 1133
+9:493  0:000    6. A7820A50: 'LPIT', 'SKL', Rev: 1, Len: 148
+9:493  0:000    7. A7820AE8: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+9:493  0:000    8. A7820D30: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+9:493  0:000    9. A78238E0: 'SSDT', 'xh_rvp07', Rev: 2, Len: 2379
+9:493  0:000    10. A7824230: 'DBGP', '', Rev: 1, Len: 52
+9:493  0:000    11. A7824268: 'DBG2', '', Rev: 0, Len: 84
+9:493  0:000    12. A78242C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 13786
+9:493  0:000    13. A78278A0: 'UEFI', '', Rev: 1, Len: 66
+9:493  0:000    14. A78278E8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+9:493  0:000    15. A7828760: 'SSDT', 'DptfTabl', Rev: 2, Len: 15357
+9:493  0:000    16. A782C360: 'MSDM', 'CBX3', Rev: 3, Len: 85
+9:493  0:000    17. A782C3B8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+9:493  0:000    18. A782C530: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+9:493  0:000    19. A782C568: 'ASF!', ' HCG', Rev: 32, Len: 165
+9:493  0:000    20. A782C610: 'BGRT', '', Rev: 0, Len: 56
+9:493  0:000    Tables in Rsdt: 21
+9:493  0:000    0. A77FF178: 'FACP', 'CBX3', Rev: 2, Len: 132
+9:493  0:000        (Dsdt: A77FF200, Facs: A7E69E40)
+9:493  0:000        A77FF200: 'DSDT', 'CBX3', Rev: 2, Len: 135504
+9:495  0:002        A7E69E40: 'FACS', Ver: 0, Len: 64
+9:495  0:000    1. A7820460: 'APIC', 'CBX3', Rev: 3, Len: 188
+9:495  0:000    2. A7820520: 'FPDT', 'CBX3', Rev: 1, Len: 68
+9:495  0:000    3. A7820568: 'MCFG', 'CBX3', Rev: 1, Len: 60
+9:495  0:000    4. A78205A8: 'HPET', 'CBX3', Rev: 1, Len: 56
+9:495  0:000    5. A78205E0: 'SSDT', 'SataTabl', Rev: 1, Len: 1133
+9:495  0:000    6. A7820A50: 'LPIT', 'SKL', Rev: 1, Len: 148
+9:495  0:000    7. A7820AE8: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+9:495  0:000    8. A7820D30: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+9:495  0:000    9. A78238E0: 'SSDT', 'xh_rvp07', Rev: 2, Len: 2379
+9:495  0:000    10. A7824230: 'DBGP', '', Rev: 1, Len: 52
+9:495  0:000    11. A7824268: 'DBG2', '', Rev: 0, Len: 84
+9:495  0:000    12. A78242C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 13786
+9:495  0:000    13. A78278A0: 'UEFI', '', Rev: 1, Len: 66
+9:495  0:000    14. A78278E8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+9:495  0:000    15. A7828760: 'SSDT', 'DptfTabl', Rev: 2, Len: 15357
+9:495  0:000    16. A782C360: 'MSDM', 'CBX3', Rev: 3, Len: 85
+9:495  0:000    17. A782C3B8: 'SLIC', 'CBX3', Rev: 3, Len: 374
+9:495  0:000    18. A782C530: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+9:495  0:000    19. A782C568: 'ASF!', ' HCG', Rev: 32, Len: 165
+9:495  0:000    20. A782C610: 'BGRT', '', Rev: 0, Len: 56
