@@ -1,0 +1,1 @@
+# dell_latitude5470_i7-6820hq
