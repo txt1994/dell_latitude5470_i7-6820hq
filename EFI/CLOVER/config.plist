@@ -116,6 +116,8 @@
 		<false/>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
+		<key>Fast</key>
+		<true/>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>NeverHibernate</key>
@@ -124,8 +126,6 @@
 		<true/>
 		<key>Secure</key>
 		<false/>
-		<key>Timeout</key>
-		<integer>4</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -475,7 +475,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02653100GUHCF9JC</string>
+		<string>C02735207QXHCF91M</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -505,9 +505,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro13,3</string>
 		<key>SerialNumber</key>
-		<string>C02T11ZAGTFN</string>
+		<string>C02V9EYJGTFN</string>
 		<key>SmUUID</key>
-		<string>C24961B7-1D5E-4003-84C6-21108A2E2063</string>
+		<string>9A69F2C3-BEB5-4C9D-9EF2-FA3AB67F8233</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
