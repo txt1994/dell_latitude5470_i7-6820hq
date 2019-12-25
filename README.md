@@ -1,4 +1,4 @@
-# clover 5101 Operating System MacOS Catalina 10.15.1 19B88
+# clover 5101 Operating System MacOS Catalina 10.15.2 19C57
 # dell_latitude5470_i7-6820hq
 # bios v1.21.6
 # CFG Lock is unlock
